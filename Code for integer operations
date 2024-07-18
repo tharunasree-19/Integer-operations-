@@ -1,0 +1,10 @@
+public class Main {
+    public static void main(String[] args) {
+      
+      System.out.println("the maximum value is : " + Math.max(12,54));
+      System.out.println("the minimum value is : " + Math.min(12,54));
+      System.out.println("the square root value is : " + Math.sqrt(169));
+      System.out.println("the absolute value is : " + Math.abs(-4.5));
+      System.out.println("the maximum value is : " + Math.random()*1001);
+  }
+}
